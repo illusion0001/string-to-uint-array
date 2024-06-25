@@ -1,0 +1,12 @@
+#outputBox
+{
+    border: 1px solid #cccccc;
+    padding: 10px;
+    margin-top: 10px;
+    overflow: auto;
+}
+
+#output
+{
+    margin: 0;
+}
